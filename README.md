@@ -1,6 +1,6 @@
-# flutter_test_message
+# flutter_task_test_message
 
-A new Flutter project.
+Viktor Dovhinka
 
 ## Getting Started
 
